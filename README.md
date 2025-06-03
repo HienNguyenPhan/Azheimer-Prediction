@@ -10,3 +10,5 @@ This project focuses on predicting whether a subject is diagnosed with **Alzheim
 ├── best_model.pt/ # Checkpoint of the model with the lowest validation loss  
 └── README.md
 
+# How to use
+Run the Full project notebook. 
